@@ -1,0 +1,6 @@
+appName: reactjs
+replicas: 3
+containerName: reactjs-cont
+imageName: nginx:1.22.1
+containerPort: 80
+
